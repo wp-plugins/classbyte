@@ -3,7 +3,7 @@
  * Plugin Name: ClassByte
  * Plugin URI: http://www.classbyte.com
  * Description: The ClassByte Plugin allows you to connect your instance of ClassByte to your WordPress Website.
- * Version: 2.0
+ * Version: 2.1
  * Author: CloudScope, Inc.
  * Author URI: http://www.classbyte.com/
  * License: GPL2
