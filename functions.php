@@ -1,7 +1,7 @@
 <?php
 if (!defined("ABSPATH")) exit;
 
-/**
+/***
  * @param $id
  */
 function store_post_page_ids($id)
