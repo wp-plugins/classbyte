@@ -4,7 +4,7 @@ Donate link: http://www.classbyte.com
 Tags: CPR Training, ClassByte
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 4.1.1
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,13 @@ Visit us at www.classbyte.com
 * Enabled Promo Codes
 * Enabled Product Add Ons
 * Fixed formatting Issues
+
+= 2.5 =
+*Replaced Bootstrap CSS calls with CB Calls to prevent bootstrap based theme conflicts
+*Added validate promo code button
+*Added email functionality
+*Added validate API credentials functionality.
+
 
 == Upgrade Notice ==
 
